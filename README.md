@@ -16,7 +16,6 @@ Desarrollado en python con Librerias principales (Necesarias de tener instaladas
                    from concurrent.futures import ThreadPoolExecutor
                    Random (Funcionalidad de la selección aleatoria)
                    
-Preview del proyecto:
 
 Programa en curso: 
 ![image](https://user-images.githubusercontent.com/100322935/202384866-aa3bfb37-752a-4e99-95bb-8aa06dff87e1.png)
