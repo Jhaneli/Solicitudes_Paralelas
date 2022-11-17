@@ -14,7 +14,7 @@ Desarrollado en python con Librerias principales (Necesarias de tener instaladas
                    import logging
                    import struct
                    from concurrent.futures import ThreadPoolExecutor
-                   Random (Funcionalidad de la selección aleatoria)
+                
                    
 
 Programa en curso: 
