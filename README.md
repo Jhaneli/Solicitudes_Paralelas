@@ -2,7 +2,9 @@ Nombre: Proceso de Solicitudes (Paralela)
 
 Desarrollado por: Jannia E. Hernández (Jhaneli), Matricula: 2019-8432
 
-Programa de ejecución de solicitudes de información sobre el computador.
+Programa de ejecución de solicitudes de información sobre el computador de manera paralela.
+
+Lenguaje de Programación:  Python
 
 Ambiente: Consola
 
